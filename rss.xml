@@ -5,14 +5,14 @@
         <description><![CDATA[Wol Wonen]]></description>
         <link>http://wolwonen.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 20:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2015 20:21:06 GMT</lastBuildDate>
         <atom:link href="http://wolwonen.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World]]></title>
             <description><![CDATA[<article><h1>Hello World</h1><p>Koen Goudriaan</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0af9efc2-0807-444c-84af-fe7d846cb434.jpg"></article>]]></description>
             <link>http://wolwonen.nl/hello-world/index.html</link>
             <guid isPermaLink="false">6280fc7b-78c8-4ed9-9e47-0f21fceca4cd</guid>
-            <pubDate>Wed, 14 Oct 2015 20:19:27 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2015 20:20:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
