@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[Wol Wonen]]></title>
         <description><![CDATA[Wol Wonen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://wolwonen.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 20:14:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 14 Oct 2015 20:19:42 GMT</lastBuildDate>
+        <atom:link href="http://wolwonen.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <description><![CDATA[<article><h1>Hello World</h1><p>Koen Goudriaan</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0af9efc2-0807-444c-84af-fe7d846cb434.jpg"></article>]]></description>
+            <link>http://wolwonen.nl/hello-world/index.html</link>
+            <guid isPermaLink="false">6280fc7b-78c8-4ed9-9e47-0f21fceca4cd</guid>
+            <pubDate>Wed, 14 Oct 2015 20:19:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>http://wolwonen.nl/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">85f5e9d7-cb77-4f4e-913a-59996c0c3811</guid>
             <pubDate>Wed, 14 Oct 2015 20:13:50 GMT</pubDate>
         </item>
